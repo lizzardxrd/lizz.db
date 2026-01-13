@@ -23,7 +23,7 @@
 ## 🚀 Quick Start
 
 ```javascript
-import { LizzDB } from 'Lizz.db';
+import { LizzDB } from 'lizz-db';
 
 const db = new LizzDB('./data.json');
 db.set('user', { name: 'John' });
@@ -33,7 +33,7 @@ const user = db.get('user');
 ## 📦 Installation
 
 ```bash
-npm install Lizz.db
+npm install lizz-db
 ```
 
 ## 📖 Documentation
@@ -50,4 +50,5 @@ npm install Lizz.db
 ## 📄 License
 
 MIT © 2025 lizzardxrd
+
 
