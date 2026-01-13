@@ -1,0 +1,36 @@
+{
+  "name": "lizz.db",
+  "version": "1.0.0",
+  "description": "A powerful, modular, and production-ready JSON database module for Node.js with encryption, schema validation, auto-backup, and event emitter support",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node --experimental-modules test.js",
+    "example": "node examples/basic-usage.js",
+    "example:array": "node examples/array-operations.js",
+    "example:advanced": "node examples/advanced-features.js",
+    "example:encryption": "node examples/encryption-example.js",
+    "start": "node examples/basic-usage.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lizzardxrd/lizz.db"
+  },
+  "keywords": [
+    "database",
+    "json",
+    "nosql",
+    "encryption",
+    "backup",
+    "cache",
+    "schema-validation",
+    "event-emitter",
+    "modular",
+    "production-ready"
+  ],
+  "author": "lizzardxrd",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
