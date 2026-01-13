@@ -3,13 +3,13 @@
 ## Installation
 
 ```bash
-npm install Lizz.db
+npm install lizz-db
 ```
 
 ## Basic Usage
 
 ```javascript
-import { LizzDB } from 'Lizz.db';
+import { LizzDB } from 'lizz-db';
 
 // Create database instance
 const db = new LizzDB('./data.json');
@@ -105,3 +105,4 @@ db.on('push', (key, item) => {
 ```
 
 For more examples, see the [examples](./examples/) directory.
+
