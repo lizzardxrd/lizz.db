@@ -43,6 +43,11 @@ npm install Lizz.db
 - [Contributing](./CONTRIBUTING.md)
 - [Examples](./examples/)
 
+##  Github İstatistikleri
+
+![Alt](https://repobeats.axiom.co/api/embed/feb257fdf3140379c1657987304fadade89db262.svg "Repobeats analytics image")
+
 ## 📄 License
 
 MIT © 2025 lizzardxrd
+
